@@ -43,3 +43,4 @@ def __createOutputFolders__(root_dir):
 # Пример использования
 if __name__ == '__main__':
     output_folder = __createOutputFolders__(root_dir)
+    print(output_folder)
